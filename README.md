@@ -1,7 +1,7 @@
 # BananusKamerus
 
 This is a project I made in the little time I have juggling between school and my almost-one-year-old son (By the time I'm writing this page).
-It's a PHP script(s) to control a Raspberry Pi to take pictures with their [new HQ Camera](https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/) through wifi.
+It's a PHP script(s) with [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/download/) to control a Raspberry Pi to take pictures with their [new HQ Camera](https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/) through wifi.
 
 Installation guide can be [found here](http://q8geek.com/2020/12/26/bananus-kamerus-v10/).
 
